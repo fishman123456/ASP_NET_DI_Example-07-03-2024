@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\ASP_NET_DI_Example-07-03-2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB8C57E-E799-4D97-AB61-35DE7EB8F5EC}|DI_Example\\DI_Example.csproj|d:\\github\\asp_net_di_example-07-03-2024\\di_example\\crypto\\sha512encoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB8C57E-E799-4D97-AB61-35DE7EB8F5EC}|DI_Example\\DI_Example.csproj|solutionrelative:di_example\\crypto\\sha512encoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB8C57E-E799-4D97-AB61-35DE7EB8F5EC}|DI_Example\\DI_Example.csproj|d:\\github\\asp_net_di_example-07-03-2024\\di_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB8C57E-E799-4D97-AB61-35DE7EB8F5EC}|DI_Example\\DI_Example.csproj|solutionrelative:di_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB8C57E-E799-4D97-AB61-35DE7EB8F5EC}|DI_Example\\DI_Example.csproj|d:\\github\\asp_net_di_example-07-03-2024\\di_example\\crypto\\md5encoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB8C57E-E799-4D97-AB61-35DE7EB8F5EC}|DI_Example\\DI_Example.csproj|solutionrelative:di_example\\crypto\\md5encoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB8C57E-E799-4D97-AB61-35DE7EB8F5EC}|DI_Example\\DI_Example.csproj|d:\\github\\asp_net_di_example-07-03-2024\\di_example\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DCB8C57E-E799-4D97-AB61-35DE7EB8F5EC}|DI_Example\\DI_Example.csproj|solutionrelative:di_example\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SHA512Encoder.cs",
+              "DocumentMoniker": "D:\\Github\\ASP_NET_DI_Example-07-03-2024\\DI_Example\\Crypto\\SHA512Encoder.cs",
+              "RelativeDocumentMoniker": "DI_Example\\Crypto\\SHA512Encoder.cs",
+              "ToolTip": "D:\\Github\\ASP_NET_DI_Example-07-03-2024\\DI_Example\\Crypto\\SHA512Encoder.cs",
+              "RelativeToolTip": "DI_Example\\Crypto\\SHA512Encoder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:08:34.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MD5Encoder.cs",
+              "DocumentMoniker": "D:\\Github\\ASP_NET_DI_Example-07-03-2024\\DI_Example\\Crypto\\MD5Encoder.cs",
+              "RelativeDocumentMoniker": "DI_Example\\Crypto\\MD5Encoder.cs",
+              "ToolTip": "D:\\Github\\ASP_NET_DI_Example-07-03-2024\\DI_Example\\Crypto\\MD5Encoder.cs",
+              "RelativeToolTip": "DI_Example\\Crypto\\MD5Encoder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:07:20.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\ASP_NET_DI_Example-07-03-2024\\DI_Example\\Program.cs",
+              "RelativeDocumentMoniker": "DI_Example\\Program.cs",
+              "ToolTip": "D:\\Github\\ASP_NET_DI_Example-07-03-2024\\DI_Example\\Program.cs",
+              "RelativeToolTip": "DI_Example\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:03:27.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Github\\ASP_NET_DI_Example-07-03-2024\\DI_Example\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DI_Example\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Github\\ASP_NET_DI_Example-07-03-2024\\DI_Example\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DI_Example\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-06T18:03:17.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
